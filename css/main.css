@@ -1,0 +1,178 @@
+.padre{
+	width: 1200px;
+	height: 2000px;
+	border: 1px black solid;
+	border:none;
+}
+.hijo{
+	width: 400px;
+	height: 400px;
+	margin:0 auto;
+}
+.logo{
+	width: 300px;
+	height: 300px;
+
+}
+hr{
+	width: 675px;
+	height: 0px;
+	margin-left: -150px;
+	margin-top: -150px;
+	color: black;
+	background-color: black;
+}
+nav{
+	display: block;
+	margin-left: 550px;
+	margin-top: -250px;
+	font-size: 18px;
+}
+.hr2{
+	width: 675px;
+	height: 0px;
+	margin-left: -150px;
+	margin-top: 5px;
+	color: black;
+	background-color: black;
+}
+.img{
+	width: 750px;
+	height: 600px;
+	margin-left: 400px;
+	margin-top: 30px;
+
+}
+.imgGrupal{
+	width: 675px;
+	height:470px;
+}
+.hr3{
+	width: 65px;
+	height: 1px;
+	margin-left: 700px;
+	margin-top: -70px;
+	color: black;
+	background-color: black;
+}
+.p1{
+	text-align: center;
+	width: 590px;
+	height: 230px;
+	border:1px black solid;
+	margin-left: 450px;
+	margin-top: 5px;
+	border:none;
+}
+.parrafo1{
+	font-size: 30px;
+	margin-top: 0px;
+}
+.hr4{
+	width: 65px;
+	height: 1px;
+	margin-left: 700px;
+	margin-top: -5px;
+	color: black;
+	background-color: black;
+}
+.Coders{
+	margin-left: 400px;
+	margin-top: 50px;
+}
+.hr5{
+	width: 65px;
+	height: 1px;
+	color: black;
+	background-color: black;
+	margin-left: 400px;
+	margin-top: 20px;
+}
+.padre1{
+	width: 650px;
+	height: 200px;
+	border: none;
+	background: white;
+	padding-top: 19px;
+	margin-left:425px;
+
+}
+.hijo1{
+	width: 200px;
+	height: 200px;
+	display: inline-block;
+	margin-right: 8px;
+	margin-left: 10px;
+	
+}
+.img1{
+	width: 200px; 
+	height: 200px;
+
+}
+.hijo2{
+	width: 200px;
+	height: 200px;
+	display: inline-block;
+	margin-right: 8px;
+	margin-left: -0px;
+}
+.img2{
+	width: 200px; 
+	height: 200px;
+}
+.hijo3{
+	width: 200px;
+	height: 200px;
+	display: inline-block;
+	margin-right: 8px;
+	
+}
+.img3{
+	width: 200px; 
+	height: 200px;
+}
+.padre2{
+	width: 650px;
+	height: 200px;
+	border: none;
+	background: white;
+	padding-top: 19px;
+	margin-left:425px;
+
+}
+.hijo4{
+	width: 200px;
+	height: 200px;
+	display: inline-block;
+	margin-right: 8px;
+	margin-left: 10px;
+	
+}
+.img4{
+	width: 200px; 
+	height: 200px;
+
+}
+.hijo5{
+	width: 200px;
+	height: 200px;
+	display: inline-block;
+	margin-right: 8px;
+	margin-left: -0px;
+}
+.img5{
+	width: 200px; 
+	height: 200px;
+}
+.hijo6{
+	width: 200px;
+	height: 200px;
+	display: inline-block;
+	margin-right: 8px;
+	
+}
+.img6{
+	width: 200px; 
+	height: 200px;
+}

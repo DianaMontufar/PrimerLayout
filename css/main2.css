@@ -1,0 +1,153 @@
+.padre{
+	width: 600px;
+	height: 1200px;
+	border: 1px black solid;
+	margin-left: 250px;
+	text-align: center;
+}
+.circulo {
+     width: 250px;
+     height: 250px;
+     border-radius: 150px;
+     border-radius: 150px;
+     border-radius: 150px;
+     position: relative;
+     left: 180px;
+     top: 20px;
+ } 
+
+.coder{
+	width: 250px;
+	height: 250px;
+	border-radius: 150px;
+    border-radius: 150px;
+    border-radius: 150px;
+}
+.parrafo{
+	margin-top: 100px;
+	margin-left: 50px;
+	margin-right: 50px;
+}
+.habilidades{
+	margin-right: 400px;
+}
+.barra1{
+	width: 450px;
+	height: 40px;
+	background-color: #909090;
+	color: white;
+	margin-left: 60px;
+	text-align: left;
+
+}
+.barra2{
+	width: 350px;
+	height: 40px;
+	background-color: #909090;
+	color: white;
+	margin-left: 60px;
+	text-align: left;
+}
+.barra3{
+	width: 250px;
+	height: 40px;
+	background-color: #909090;
+	color: white;
+	margin-left: 60px;
+	text-align: left;
+}
+.text{
+	padding-left: 10px;
+	padding-top: 10px;
+}
+.padre1{
+	width: 500px;
+	height: 150px;
+	border: none;
+	background: white;
+	padding-top: 0px;
+	margin-left:-10px;
+	}
+.hijo1{
+	width: 150px;
+	height: 150px;
+	display: inline-block;
+	margin-right: 8px;
+	margin-left: 10px;
+	
+}
+.img1{
+	width: 150px; 
+	height: 150px;
+
+}
+.hijo2{
+	width: 150px;
+	height: 150px;
+	display: inline-block;
+	margin-right: 8px;
+	margin-left: -0px;
+}
+.img2{
+	width: 150px; 
+	height: 150px;
+}
+.hijo3{
+	width: 150px;
+	height: 150px;
+	display: inline-block;
+	margin-right: 8px;
+	
+}
+.img3{
+	width: 150px; 
+	height: 150px;
+}
+.padre2{
+	width: 500px;
+	height: 200px;
+	border: none;
+	background: white;
+	padding-top: 19px;
+	margin-left:-10px;
+
+}
+.hijo4{
+	width: 150px;
+	height: 150px;
+	display: inline-block;
+	margin-right: 8px;
+	margin-left: 10px;
+	
+}
+.img4{
+	width: 150px; 
+	height: 150px;
+
+}
+.hijo5{
+	width: 150px;
+	height: 150px;
+	display: inline-block;
+	margin-right: 8px;
+	margin-left: -0px;
+}
+.img5{
+	width: 150px; 
+	height: 150px;
+}
+.hijo6{
+	width: 150px;
+	height: 150px;
+	display: inline-block;
+	margin-right: 8px;
+	
+}
+.img6{
+	width: 150px; 
+	height: 150px;
+}
+.portafolio{
+	margin-left: -20px;
+	color: black;
+}
